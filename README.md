@@ -1,4 +1,4 @@
-# repositorio-ejercicio-1
+# Repositorio Ejercicio 1
 
 
 Yo soy un cambio
